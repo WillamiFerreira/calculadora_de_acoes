@@ -1,1 +1,0 @@
-Data: 05/02/2030, Código: GHSW04, Quantidade: 34, Tipo: compra, Preço: 65, Taxa: 0.76
