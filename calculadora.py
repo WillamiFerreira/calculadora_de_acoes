@@ -1,4 +1,3 @@
-from asyncio import events
 from PySimpleGUI import PySimpleGUI as sg
 from tkinter import *
 #janela-inicio. Da linha 3 a 12 está o código responsável pela criação da interface gráfica
