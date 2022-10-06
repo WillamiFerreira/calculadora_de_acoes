@@ -3,7 +3,7 @@ from tkinter import *
 #janela-inicio. Da linha 3 a 12 está o código responsável pela criação da interface gráfica
 def janela_inicial():    
     sg.theme('lightgreen')
-    menu_def=['&Tools', ['&Detalhar','&Close']],['&Save',['&Save File', 'Save &As','Save &Copy'  ]]
+    menu_def=['&Tools', ['&Detalhar','&Média','&Close',]],['&Save',['&Save File', 'Save &As','Save &Copy'  ]]
     layout = [
         [sg.Menu(menu_def, background_color='darkgrey',text_color='black', disabled_text_color='yellow', font='Verdana', pad=(10,10))],
         [sg.Text('Data:  '), sg.Text(), sg.Text(), sg.Input(key='data', size=(28))],

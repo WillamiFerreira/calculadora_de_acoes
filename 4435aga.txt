@@ -1,0 +1,2 @@
+Data: , Código: 4435aga, Quantidade: 20, Tipo: venda, Preço: 1000, Taxa: 0.5
+Data: , Código: 4435aga, Quantidade: 1, Tipo: venda, Preço: 10, Taxa: 0.5
