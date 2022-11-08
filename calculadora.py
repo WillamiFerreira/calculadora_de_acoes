@@ -1,5 +1,6 @@
 from PySimpleGUI import PySimpleGUI as sg
 from tkinter import *
+#icjnjsddjh
 #janela-inicio. Da linha 3 a 12 está o código responsável pela criação da interface gráfica
 def janela_inicial():    
     sg.theme('lightgreen')
